@@ -1,14 +1,13 @@
-* {
-  box-sizing: border-box;
+body {background-color: aqua
 }
+h1{}
+.class{display:flex
 
-body {
-  margin: 0;
-  font-family: system-ui, sans-serif;
-  color: black;
-  background-color: white;
 }
-
+h3{
+  font-family: ;
+  font-weight: bold;
+}
 nav {
   display: flex;
   flex-wrap: wrap;
@@ -43,4 +42,10 @@ main {
 h1 {
   font-weight: bold;
   font-size: 1.5rem;
+}
+.list {
+  display:flex;
+gap:10px;
+font-size:10px ;
+word-spacing: 5px;
 }
